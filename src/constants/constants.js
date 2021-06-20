@@ -1,6 +1,5 @@
 
 const prefix="/Portfolio"; 
-console.log(prefix+'/images2/1.png')
 export const projects = [
   {
     title: 'Weather App',
