@@ -6,8 +6,8 @@ export const projects = [
     description: "Using React, returns the climate conditions of particular location based on search",
       image: '/images/1.png',
       tags: ['React'],
-    source: 'https://github.com/sujithchenanath909/WeatherApp',
-    visit: 'https://sujithchenanath909.github.io/WeatherApp/',
+    source: 'https://sujithchenanath909.github.io/WeatherApp/',
+    visit: 'https://github.com/sujithchenanath909/WeatherApp',
     id: 0,
   },
   {
@@ -15,8 +15,8 @@ export const projects = [
     description:"Detects face in a provided image ,used clarifai third-party api for machine learning api's",
     image: '/images/2.png',
     tags: ['React', 'JavaScript','Clarifai-api'],
-    source: 'https://github.com/sujithchenanath909/face_recognition',
-    visit: '#projects',
+    source: '#projects',
+    visit: 'https://github.com/sujithchenanath909/FaceDetectorApp',
     id: 1,
   },
   {
@@ -24,8 +24,8 @@ export const projects = [
     description: "A smart app built using java spring boot and thymeleaf that shows coronavirus count status nationwide",
       image: '/images/3.png',
       tags: ['Java8', 'SpringBoot'],
-    source: 'https://github.com/sujithchenanath909/CoronaVirusTracker',
-    visit: '#projects',
+    source: '#projects',
+    visit: 'https://github.com/sujithchenanath909/CoronaVirusTracker',
     id: 2,
   }
 ];
