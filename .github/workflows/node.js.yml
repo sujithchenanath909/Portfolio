@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ main ]
 env:
-  NEXT_PUBLIC_BASE_PATH: /Portfolio
+  NEXT_PUBLIC_BASE_PATH: ''
 jobs:
   build:
 
