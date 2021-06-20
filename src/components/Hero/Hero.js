@@ -12,7 +12,7 @@ const Hero = (props) => (
           My Personal PortFolio 
       </SectionTitle>
       <SectionText>
-        A JavaFull stackdeveloper specialised in Backend Development,UI and test automation activities <br/>
+        A Java fullstack developer specialised in backend development,UI and test automation activities <br/>
         I write code mostly in Java and I am fond of learning new skills on the way .I consider learning as a never ending process .The thirst in creating beautiful and powerful things drive me all the way..
         The core mission is to solve real life and business problems through what I do
       </SectionText>
