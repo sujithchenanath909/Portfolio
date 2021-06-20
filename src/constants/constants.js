@@ -14,7 +14,7 @@ export const projects = [
     title: 'SmartBrain-FaceDetector',
     description:"Detects face in a provided image ,used clarifai third-party api for machine learning api's",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript','Clarifai-api'],
+    tags: ['React.js', 'JavaScript','Clarifai-api','Node.js'],
     source: '#projects',
     visit: 'https://github.com/sujithchenanath909/FaceDetectorApp',
     id: 1,
