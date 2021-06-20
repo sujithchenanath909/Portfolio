@@ -1,5 +1,5 @@
 
-const prefix='/Portfolio'; 
+const prefix="/Portfolio"; 
 console.log({prefix}+'/images/1.png')
 export const projects = [
   {
