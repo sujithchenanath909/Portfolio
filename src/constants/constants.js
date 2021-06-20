@@ -1,5 +1,5 @@
 
-const prefix='\Portfolio'; 
+const prefix='/Portfolio'; 
 export const projects = [
   {
     title: 'Weather App',
