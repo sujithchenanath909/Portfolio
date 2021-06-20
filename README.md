@@ -1,3 +1,3 @@
 ## Personal Portfolio
-
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+My Personal Portfolio website 
+Go to https://sujithchenanath.online
