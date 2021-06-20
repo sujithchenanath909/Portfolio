@@ -1,5 +1,5 @@
 
-const prefix="/Portfolio"; 
+const prefix=NEXT_PUBLIC_BASE_PATH || ''; 
 console.log(prefix+'/images2/1.png')
 export const projects = [
   {
