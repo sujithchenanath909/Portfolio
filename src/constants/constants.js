@@ -1,8 +1,10 @@
+
+const prefix='\Portfolio'; 
 export const projects = [
   {
     title: 'Weather App',
     description: "Using React, returns the climate conditions of particular location based on search",
-      image: '/images/1.png',
+      image: {prefix}+'/images/1.png',
       tags: ['React'],
     source: 'https://github.com/sujithchenanath909/WeatherApp',
     visit: 'https://sujithchenanath909.github.io/WeatherApp/',
