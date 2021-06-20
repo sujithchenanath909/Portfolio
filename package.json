@@ -1,11 +1,14 @@
 {
   "name": "portfolio_nextjs",
+  "homepage": "https://sujithchenanath909.github.io/Portfolio"
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "next": "10.2.3",
