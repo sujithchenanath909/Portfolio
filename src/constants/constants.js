@@ -27,6 +27,15 @@ export const projects = [
     source: '#projects',
     visit: 'https://github.com/sujithchenanath909/CoronaVirusTracker',
     id: 2,
+  },
+  {
+    title: 'Test Automation FrameWork',
+    description: "A maven based Java TestNG Selenium framework , integrated with cucumber ,log4j and extent reports",
+      image: '/images/5.jpg',
+      tags: ['Java8', 'TestNG' ,'Selenium' ,'Cucumber' ,'log4j'],
+    source: '#projects',
+    visit: 'https://github.com/sujithchenanath909/SeleniumFrameWorkSkelton',
+    id: 3,
   }
 ];
 

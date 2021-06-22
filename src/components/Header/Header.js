@@ -42,6 +42,7 @@ const Header = () =>  (
         <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>
+
  </Container>
 );
 
