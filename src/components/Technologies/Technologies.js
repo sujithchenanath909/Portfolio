@@ -40,7 +40,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br/>
             Junit,TestNG <br/>
-            Selenium,Appium,Cucumber
+            Selenium,Appium,Cypress,Cucumber
           </ListParagraph>
         </ListContainer>
       </ListItem>
