@@ -36,7 +36,17 @@ export const projects = [
     source: '#projects',
     visit: 'https://github.com/sujithchenanath909/SeleniumFrameWorkSkelton',
     id: 3,
+  },
+    {
+    title: 'Test Automation FrameWork',
+    description: "A maven based Java TestNG Selenium framework , integrated with log4j and extent reports and test data configuration using json",
+      image: '/images/5.jpg',
+      tags: ['Java8', 'TestNG' ,'Selenium' ,'JSON' ,'log4j'],
+    source: '#projects',
+    visit: 'https://github.com/sujithchenanath909/Selenium_Shoptimize',
+    id: 4,
   }
+  
 ];
 
 export const TimeLineData = [
