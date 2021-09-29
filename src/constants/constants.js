@@ -53,6 +53,6 @@ export const TimeLineData = [
   { fromyear: 2013,toyear:'', text: 'Started my journey', },
   { fromyear: 2013,toyear:2016,text: 'Worked for MRCMPU Ltd as Junior Programmer', },
   { fromyear: 2016, toyear:2021,text: 'Worked for Infosys Ltd as Technology Analyst | Java FullStack', },
-  { fromyear: 2021, toyear:present,text: 'Working for Netmeds.com as Technology Lead ' }
+  { fromyear: 2021, toyear:'present',text: 'Working for Netmeds.com as Technology Lead ' }
   
 ];
